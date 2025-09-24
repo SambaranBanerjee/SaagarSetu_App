@@ -19,7 +19,7 @@ export default function OnboardingScreen() {
         
         {!showLanguageSelector ? (
           <>
-            <Link href="./(tabs)/dashboard" asChild>
+            <Link href="./(tabs)/report" asChild>
               <TouchableOpacity style={styles.button}>
                 <Text style={styles.buttonText}>Get Started</Text>
               </TouchableOpacity>

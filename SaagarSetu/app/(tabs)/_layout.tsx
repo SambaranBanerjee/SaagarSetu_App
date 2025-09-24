@@ -16,11 +16,11 @@ export default function TabLayout() {
         headerTintColor: Colors[colorScheme ?? 'light'].headerText,
       }}>
       <Tabs.Screen
-        name="dashboard"
+        name="report"
         options={{
-          title: 'Dashboard',
+          title: 'Report',
           tabBarIcon: ({ color, focused }) => (
-            <Ionicons name={focused ? 'home' : 'home-outline'} color={color} size={24} />
+            <Ionicons name={focused ? 'add-circle' : 'add-circle-outline'} color={color} size={24} />
           ),
         }}
       />
