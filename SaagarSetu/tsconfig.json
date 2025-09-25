@@ -1,12 +1,12 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
+    "module": "Node16",
+    "moduleResolution": "Node16",
     "strict": true,
-    "paths": {
-      "@/*": [
-        "./*"
-      ]
-    }
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "noEmit": true
   },
   "include": [
     "**/*.ts",
