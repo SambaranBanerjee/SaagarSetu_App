@@ -9,7 +9,7 @@ SaagarSetu is a cross-platform mobile application designed to empower coastal co
 ## 🎥 Demo Video
 
 Watch a quick walkthrough of how SaagarSetu works!
-
+https://github.com/user-attachments/assets/870521b4-aeeb-47e0-9c41-aaf201542850
 Demo = https://youtube.com/shorts/9jPv1wTx8Zg?feature=share
 
 ---
