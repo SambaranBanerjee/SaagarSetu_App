@@ -6,6 +6,16 @@ SaagarSetu is a cross-platform mobile application designed to empower coastal co
 
 ---
 
+## 🎥 Demo Video
+
+Watch a quick walkthrough of how SaagarSetu works!
+
+[![SaagarSetu App Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+
+*(Click the image above to watch the video. Don't forget to replace `YOUR_YOUTUBE_VIDEO_ID` with your actual video ID, or swap this out for a GIF!)*
+
+---
+
 ## 🚀 Key Features
 
 - **🚨 Real-Time Hazard Reporting:** Quickly report ocean-related hazards with descriptions, image uploads, and severity tagging.
